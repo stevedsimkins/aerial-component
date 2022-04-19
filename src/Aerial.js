@@ -20,7 +20,6 @@ const Aerial = () => {
     } catch (error) {
       console.log(error)
     }
-
   }
 
   const loading = () => (
